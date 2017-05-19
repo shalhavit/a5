@@ -32,7 +32,7 @@
             <h1 class="text-center">What is Product Locator</h1>
             <div class="row">
                 <p class="text-center flex-center extra_padding_all padding_separator">
-                    This app attemp to help people of company to add new products and/or locate in which brand store is available an specific product.
+                    This app attempts to help companies in adding new products and/or locate in which brand store a specific product is available.
                 </p>
             </div>
         </section>
