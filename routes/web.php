@@ -11,6 +11,8 @@
 |
 */
 
-Route::get('/', function () {
-    return view('welcome');
-});
+Route::get('/', 'WelcomeController');
+
+Route::get('/product-locator', 'LocatorController@getProductList');
+
+Route::resource('/product', 'LocatorController');

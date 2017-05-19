@@ -1,0 +1,74 @@
+{
+  "1" : {
+    "id" : 1,
+    "code" : "Prince",
+    "address" : "32 W. Prince Dr.\nNorth Tonawanda, NY 14120",
+    "country" : "US"
+  },
+  "2" : {
+    "id" : 2,
+    "code" : "Ramblewood",
+    "address" : "48 W. Ramblewood Ave.\nJoliet, IL 60435",
+    "country" : "US"
+  },
+  "3" : {
+    "id" : 3,
+    "code" : "Theatre",
+    "address" : "585 Theatre Ave.\nBattle Ground, WA 98604",
+    "country" : "US"
+  },
+  "4" : {
+    "id" : 4,
+    "code" : "Arch",
+    "address" : "7935 N. Arch St.\nHudson, NH 03051",
+    "country" : "US"
+  },
+  "5" : {
+    "id" : 5,
+    "code" : "Central",
+    "address" : "47 Central Drive\nLa Vergne, TN 37086",
+    "country" : "US"
+  },
+  "6" : {
+    "id" : 6,
+    "code" : "Beacon",
+    "address" : "9453 Beacon Ave.\nStatesville, NC 28625",
+    "country" : "US"
+  },
+  "7" : {
+    "id" : 7,
+    "code" : "Addison",
+    "address" : "7774 Addison Ave.\nMeriden, CT 06450",
+    "country" : "US"
+  },
+  "8" : {
+    "id" : 8,
+    "code" : "Arnold",
+    "address" : "7668 Arnold St.\nBedford, OH 44146",
+    "country" : "US"
+  },
+  "9" : {
+    "id" : 9,
+    "code" : "Sunnyslope",
+    "address" : "125 Sunnyslope Lane\nMcallen, TX 78501",
+    "country" : "US"
+  },
+  "10" : {
+    "id" : 10,
+    "code" : "Canal",
+    "address" : "23 Canal Ave.\nGlen Burnie, MD 21060",
+    "country" : "US"
+  },
+  "11" : {
+    "id" : 11,
+    "code" : "Tailwater",
+    "address" : "725 Tailwater St.\nGreer, SC 29650",
+    "country" : "US"
+  },
+  "12" : {
+    "id" : 12,
+    "code" : "Thatcher",
+    "address" : "8207 Thatcher St.\nConcord, NH 03301",
+    "country" : "US"
+  }
+}
